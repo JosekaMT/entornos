@@ -1,5 +1,5 @@
 *{
-    background-color:  #689da7;
+    background-color:  #689da7f3;
     padding: 0%;
     margin: 0%;
 }
@@ -9,4 +9,8 @@
 
 .h1{
     size:70px;
+}
+
+.grid-container1{
+    background-color: blue;
 }
